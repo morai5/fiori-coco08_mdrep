@@ -1,0 +1,29 @@
+{
+	"changeType": "propertyChange",
+	"reference": "com.pg.fmds.zfmds_coco08_md",
+	"namespace": "apps/com.pg.fmds.zfmds_coco08_md/changes/",
+	"projectId": "com.pg.fmds.zfmds_coco08_md",
+	"packageName": "$TMP",
+	"support": {
+		"generator": "sap.ui.rta.command",
+		"command": "property",
+		"sapui5Version": "1.123.1"
+	},
+	"originalLanguage": "EN",
+	"layer": "CUSTOMER_BASE",
+	"fileType": "change",
+	"fileName": "id_1715177932930_127_propertyChange",
+	"content": {
+		"property": "width",
+		"newValue": "7rem"
+	},
+	"texts": {},
+	"selector": {
+		"id": "com.pg.fmds.zfmds_coco08_md::sap.suite.ui.generic.template.ListReport.view.ListReport::ZT_C_FMDS_COCO08--listReport-zunlish",
+		"type": "sap.ui.table.Column",
+		"idIsLocal": false
+	},
+	"dependentSelector": {},
+	"jsOnly": false,
+	"creation": "2024-05-08T14:18:55.572Z"
+}
